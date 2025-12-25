@@ -26,7 +26,7 @@ pip3 install libtorrent
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ushanmalinda/torrent-to-google-drive.git
+git clone https://github.com/maulik882/torrent-to-google-drive.git
 cd torrent-to-google-drive
 
 # Make script executable
@@ -318,8 +318,8 @@ echo "All downloads complete!"
 
 ## 🤝 Need Help?
 
-- 🐛 [Report Issues](https://github.com/Ushanmalinda/torrent-to-google-drive/issues)
-- 💬 [Ask Questions](https://github.com/Ushanmalinda/torrent-to-google-drive/discussions)
+- 🐛 [Report Issues](https://github.com/maulik882/torrent-to-google-drive/issues)
+- 💬 [Ask Questions](https://github.com/maulik882/torrent-to-google-drive/discussions)
 - 📖 [Main README](README.md)
 
 ---

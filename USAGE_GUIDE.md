@@ -34,7 +34,7 @@
 3. Click "Open in Colab" badge at the top
 
 **Option B: Direct Link**
-Click: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ushanmalinda/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
+Click: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maulik882/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
 
 ### 2️⃣ Run Cell 1 (Install Dependencies)
 
@@ -285,9 +285,9 @@ After Cell 7, in Google Drive:
 
 ## Need More Help?
 
-- 🐛 [Report a Bug](https://github.com/Ushanmalinda/torrent-to-google-drive/issues)
-- 💬 [Ask a Question](https://github.com/Ushanmalinda/torrent-to-google-drive/discussions)
-- 📧 Contact: [Open an Issue](https://github.com/Ushanmalinda/torrent-to-google-drive/issues)
+- 🐛 [Report a Bug](https://github.com/maulik882/torrent-to-google-drive/issues)
+- 💬 [Ask a Question](https://github.com/maulik882/torrent-to-google-drive/discussions)
+- 📧 Contact: [Open an Issue](https://github.com/maulik882/torrent-to-google-drive/issues)
 
 ---
 

@@ -12,7 +12,7 @@ Run torrents directly on your Windows machine using a simple Python script!
 
 **Easiest solution** - No installation needed!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ushanmalinda/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maulik882/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
 
 Just click and run - works perfectly on Windows!
 
@@ -51,7 +51,7 @@ python3 -c "import libtorrent; print('✅ libtorrent installed!')"
 
 ```bash
 # Clone the repo
-git clone https://github.com/Ushanmalinda/torrent-to-google-drive.git
+git clone https://github.com/maulik882/torrent-to-google-drive.git
 cd torrent-to-google-drive
 
 # Run downloads
@@ -149,7 +149,7 @@ If this works (rare on Windows), you can use the script:
 
 ```powershell
 # Clone repo
-git clone https://github.com/Ushanmalinda/torrent-to-google-drive.git
+git clone https://github.com/maulik882/torrent-to-google-drive.git
 cd torrent-to-google-drive
 
 # Run
@@ -287,7 +287,7 @@ wsl --install
 # 4. Inside Ubuntu terminal:
 sudo apt update
 sudo apt install python3-libtorrent git
-git clone https://github.com/Ushanmalinda/torrent-to-google-drive.git
+git clone https://github.com/maulik882/torrent-to-google-drive.git
 cd torrent-to-google-drive
 
 # 5. Download torrents!
@@ -307,8 +307,8 @@ python3 torrent_downloader.py --torrent /mnt/c/Users/YourName/Downloads/file.tor
 
 ## 🤝 Need Help?
 
-- 🐛 [Report Issues](https://github.com/Ushanmalinda/torrent-to-google-drive/issues)
-- 💬 [Ask Questions](https://github.com/Ushanmalinda/torrent-to-google-drive/discussions)
+- 🐛 [Report Issues](https://github.com/maulik882/torrent-to-google-drive/issues)
+- 💬 [Ask Questions](https://github.com/maulik882/torrent-to-google-drive/discussions)
 
 ---
 

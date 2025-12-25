@@ -2,7 +2,7 @@
 
 **Download torrents directly to your Google Drive using Google Colab's free cloud servers!**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ushanmalinda/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maulik882/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
 
 ## ✨ Features
 
@@ -10,6 +10,9 @@
 - ✅ **100% Free** - No installation, no cost, no sign-ups needed
 - ✅ **Fast Downloads** - Leverage Google's high-speed infrastructure (5-20 MB/s)
 - ✅ **Direct to Drive** - Files automatically saved to your Google Drive
+- ✅ **Smart Resume** - Resume downloads instantly without re-checking (Saves `.fastresume` data)
+- ✅ **Auto-Save** - Progress saved every 60 seconds
+- ✅ **Storage Optimized** - Tuned for Google Drive to prevent local storage errors
 - ✅ **Zero Local Storage** - Everything happens in the cloud
 - ✅ **Instant Access** - Get clickable links to your files immediately
 
@@ -30,7 +33,7 @@
 ### 🌩️ Option 1: Google Colab (Cloud - No Installation)
 **Best for:** Windows users, quick downloads, when away from your PC
 
-Click the "Open in Colab" badge above or [click here](https://colab.research.google.com/github/Ushanmalinda/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
+Click the "Open in Colab" badge above or [click here](https://colab.research.google.com/github/maulik882/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
 
 ### 🐧 Option 2: Ubuntu/Linux (Local - Full Control)
 **Best for:** Linux users, unlimited time, faster speeds, larger files
@@ -143,6 +146,9 @@ If Cell 1 shows an error:
 ### Can't find my files
 **Solution**: Run Cell 7 to get direct links, or check your Google Drive in the `Torrents` folder.
 
+### "Transport Endpoint is not connected"
+**Solution**: This script now uses optimized settings to prevent this, but if it happens, just restart the runtime. Resume data will pick up where you left off!
+
 ## 📊 Performance
 
 **Typical download speeds**:
@@ -190,8 +196,8 @@ This project is provided as-is for educational and legal use only.
 ## 📧 Contact
 
 Have questions or suggestions? 
-- Open an [Issue](https://github.com/Ushanmalinda/torrent-to-google-drive/issues)
-- Start a [Discussion](https://github.com/Ushanmalinda/torrent-to-google-drive/discussions)
+- Open an [Issue](https://github.com/maulik882/torrent-to-google-drive/issues)
+- Start a [Discussion](https://github.com/maulik882/torrent-to-google-drive/discussions)
 
 ---
 
